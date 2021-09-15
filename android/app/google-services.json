@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "35913277702",
+    "project_id": "controlemw-7e96d",
+    "storage_bucket": "controlemw-7e96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35913277702:android:d7d01ddd952c7703fcbe87",
+        "android_client_info": {
+          "package_name": "com.employeecontrol.controle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBgl5Ci3qI6cdMxaZAOqBj7si_eMZbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35913277702-bpj6rkum16fgrjaefue19q8d79d1c29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.contole"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35913277702:android:a84aed39f6d1f6b8fcbe87",
+        "android_client_info": {
+          "package_name": "com.example.pn_204_sam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBgl5Ci3qI6cdMxaZAOqBj7si_eMZbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35913277702-bpj6rkum16fgrjaefue19q8d79d1c29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.contole"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35913277702:android:bd7332492dc5f002fcbe87",
+        "android_client_info": {
+          "package_name": "com.skytec.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBgl5Ci3qI6cdMxaZAOqBj7si_eMZbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35913277702-bpj6rkum16fgrjaefue19q8d79d1c29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.contole"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35913277702:android:fd1036e8a7ae351efcbe87",
+        "android_client_info": {
+          "package_name": "com.skytecin.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBgl5Ci3qI6cdMxaZAOqBj7si_eMZbak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35913277702-nmfo5rai9ltkgur8numf53d3a0d7cmhr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35913277702-bpj6rkum16fgrjaefue19q8d79d1c29c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.contole"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
